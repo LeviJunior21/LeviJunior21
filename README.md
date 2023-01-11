@@ -17,6 +17,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="html5" src="https://blogs.sw.siemens.com/wp-content/uploads/sites/54/2018/02/systemverilog-logo.jpg" height="28px"/>
 </div>
 
 ##
