@@ -6,7 +6,6 @@
 [![Discord](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B5583988308113)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeviJunior21)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Levi GitHub stats](https://github-readme-stats.vercel.app/api?username=LeviJunior21&show_icons=true&theme=dracula)
 
 ### Teclogias usadas por mim
